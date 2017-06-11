@@ -1,7 +1,8 @@
 # Useful-programs
 List of programs I find useful
 
-Serves as a reminder what programs to install after a complete OS reinstall.
+Serves as a reminder what programs to install after a complete OS reinstall. \
+To be easier to find and install, many of these programs can be found in the Fedora package manager under the listed names (I suppose they have a similar name in other package managers too). In fact, I found most of these programs by looking through the *yum extender* Fedora package manager.
 
 ## Linux
 
